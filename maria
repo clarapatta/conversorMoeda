@@ -1,0 +1,29 @@
+#janela => 500x500
+#título
+#campos para selecionar as moedas de origem e destino
+#botão para converter
+#lista de exibição com os nomes das moedas
+
+#importar a biblioteca que vai fazer a janela
+import customtkinter
+
+#Criar e configurar a janela 
+customtkinter.set_appearance_mode("light")
+customtkinter.set_default_color_theme("dark-blue")
+
+janela = customtkinter.CTk()
+janela.geometry("500x500")
+
+#Criar os botões, textos e demais elementos
+titulo = customtkinter.CTkLabel(janela, text="Você me ama?", font=("times new roman",26), text_color= "#ab1010")
+sim = customtkinter.CTkLabel(janela, text="Sim", font=("times new roman", 14))
+nao = customtkinter.CTkLabel(janela, text="Não", font=("times new roman", 14))
+
+
+#Colocar os elementos criados na tela
+titulo.pack(padx= 10, pady=0)
+sim.pack(padx= 10, pady=0)
+nao.pack(padx= 10, pady=10) # type: ignore
+
+#rodar a janela
+janela.mainloop()
