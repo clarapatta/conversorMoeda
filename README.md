@@ -73,14 +73,10 @@ Nesse projeto aprendemos mais sobre a linguagem Python, o funcionamento de uma b
 
 Os autores deste projeto são:
 
-Lívia Luque Monarin - n° 9
-perfil no GITHUB= Liv1aluk
+- Lívia Luque Monarin - n° 9
 
-Maria Clara De Araujo Patta - n° 30
-perfil no GITHUB= clarapatta
+- Maria Clara De Araujo Patta - n° 30
 
-Graziella Bortolotti - n° 6
-perfil no GITHUB= grazybt
+- Graziella Bortolotti - n° 6
 
-Vitória Dos Santos Fernandes - n° 17
-perfil no GITHUB= 
+- Vitória Dos Santos Fernandes - n° 17
